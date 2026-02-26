@@ -1,7 +1,7 @@
 public class selection {
 
   public static void main(String[] args) {
-      int age[]={10,2,4,3,6,8};
+      int age[]={10,2,4,3,6,8,9};
       int n=age.length;
 
       for(int i=0;i<n;i++){
