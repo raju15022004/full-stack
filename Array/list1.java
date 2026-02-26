@@ -5,7 +5,7 @@ public class list1 {
 
   public static void main(String[] args) {
      ArrayList<String> list=new ArrayList<String>();
-      list.add("tony");
+      list.add("raju");
       list.add("Stark");
       list.add(1, "iron");
 
