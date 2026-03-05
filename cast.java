@@ -20,6 +20,6 @@ public class cast{
       Scanner sc=new Scanner(System.in);
       System.out.println("Enter your name ");
       String name=sc.nextLine();
-      System.out.println("hello" + name);
+      System.out.println("hello world" + name);
   }
 }
