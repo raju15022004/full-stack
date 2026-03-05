@@ -9,7 +9,7 @@ public class Avg{
 
 
       int num1=10;
-      int num2=15;
+      int num2=10;
 
       num1=num1+num2;
       num2=num1-num2;
