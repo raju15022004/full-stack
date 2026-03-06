@@ -8,7 +8,7 @@ public class Avg{
       //  System.out.println(avg);
 
 
-      int num1=10;
+      int num1=15;
       int num2=10;
 
       num1=num1+num2;
