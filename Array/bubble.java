@@ -1,7 +1,7 @@
 public class bubble {
 
   public static void main(String[] args) {
-      int arr[]={10,2,4,3,7,6,8,9};
+      int arr[]={10,2,4,3,7,6,8,9,6};
       int n=arr.length;
       System.out.println("Before Sorting");
       for(int i=0;i<n;i++){
