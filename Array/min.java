@@ -2,7 +2,7 @@ public class min{
 
   public static void main(String[] args){
 
-    int number[]={10,5,25,30,40};
+    int number[]={10,5,25,30,40,50};
 
     int min= number[0];
 
