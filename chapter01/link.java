@@ -34,8 +34,8 @@ public class link {
 
   public static void main(String[] args) {
     link list=new link();
-    list.addFirst(data:"2");
-    list.addFirst(data:"1");
+    list.addFirst("2");
+        list.addFirst("1");
     list.show();
   }
 
