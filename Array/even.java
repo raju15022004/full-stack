@@ -1,7 +1,7 @@
 public class even{
 
   public static void main(String[] args) {
-      int number[]={1,2,3,4,5,6,7,9,8};
+      int number[]={1,2,3,4,5,6,7,9};
       int even=0;
       int odd=0;
 
