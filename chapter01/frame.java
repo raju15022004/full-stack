@@ -10,7 +10,7 @@ public class frame {
 
   public static void main(String[] args) {
       JFrame frame=new JFrame("main Frame");
-      frame.setSize(500,500);
+      frame.setSize(500,600);
       frame.setLayout(null);
       frame.setVisible(true);
       // JButton b1=new JButton("Click me");
