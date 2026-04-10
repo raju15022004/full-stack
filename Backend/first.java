@@ -1,0 +1,11 @@
+// package Backend;
+
+public class first {
+
+  public static void main(String[] args) {
+      int i=8;
+      int j=2;
+      System.out.println(i/j);
+  }
+
+}
