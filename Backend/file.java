@@ -9,7 +9,7 @@ public class file {
       File obj=new File("myfile.txt");
       Scanner sc=new Scanner(obj);
   }catch(Exception e){
-    System.out.println("File not found");
+    System.out.println("File not found can");
   }
   }
 
