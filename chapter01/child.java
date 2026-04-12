@@ -5,7 +5,7 @@ import javax.swing.tree.DefaultMutableTreeNode;
 public class child {
   public static void main(String[] args) {
       JFrame f=new JFrame("main");
-      f.setSize(500,400);
+      f.setSize(400,400);
       f.setVisible(true);
       DefaultMutableTreeNode style=new DefaultMutableTreeNode("Style");
       DefaultMutableTreeNode color=new DefaultMutableTreeNode("Color");
