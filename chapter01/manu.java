@@ -8,7 +8,7 @@ public class manu {
 
   public static void main(String[] args) {
       JFrame f=new JFrame("main");
-      f.setSize(600,600);
+      f.setSize(500,600);
       f.setLayout(null);
       f.setVisible(true);
       JMenuBar mb=new JMenuBar();
