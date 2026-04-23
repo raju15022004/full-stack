@@ -5,7 +5,7 @@ public class Array{
 
   public static void main(String[] args){
     Scanner sc=new Scanner(System.in);
-    System.out.println("Raju  Kumar sahani ");
+    System.out.println("Raju  Kumar  ");
     int size=sc.nextInt();
 
     int age[]=new int[size];
