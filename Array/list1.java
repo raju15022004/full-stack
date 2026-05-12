@@ -12,7 +12,7 @@ public class list1 {
         System.out.println(list);
 
         // Set value at index 0
-        list.set(0, "raju kumar");
+        list.set(0, "raj kumar");
 
         System.out.println(list);
   }
