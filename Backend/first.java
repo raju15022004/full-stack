@@ -4,7 +4,7 @@ public class first {
 
   public static void main(String[] args) {
       int i=8;
-      int j=0;
+      int j=2;
 
       try {
       System.out.println(i/j);
